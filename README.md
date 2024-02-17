@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dablu77</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align='right' scr="![image](https://github.com/Dablu77/dablu._.77/assets/98605321/ef581fc1-a83b-4826-a786-0d96d6b80b23)" alt='coding' width="400"/>
+<img align='right' scr="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt='coding' width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dablu77&label=Profile%20views&color=0e75b6&style=flat" alt="dablu77" /> </p>
 
