@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dablu77</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align='right' scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Dsenior-software-engineer-platform-dresma-nn-l2nm59Hb&psig=AOvVaw1GOk9iaMYBth2AccqVOSFY&ust=1708242760039000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCymqnysYQDFQAAAAAdAAAAABAR" alt='coding' width="400"/>
+<img align='right' scr="![image](https://github.com/Dablu77/dablu._.77/assets/98605321/ef581fc1-a83b-4826-a786-0d96d6b80b23)" alt='coding' width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dablu77&label=Profile%20views&color=0e75b6&style=flat" alt="dablu77" /> </p>
 
