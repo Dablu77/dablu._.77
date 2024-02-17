@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm dablu77</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dablu Kumar</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dablu77&label=Profile%20views&color=0e75b6&style=flat" alt="dablu77" /> </p>
+
 <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="coding" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="line" width="1920"/>
+<h3 align="center">👋 Hey there! I'm an enthusiastic IT student 🎓. Coding gets me pumped 💻, and I'm a big fan of computers 🖥️. I'm a frontend developer 🌐. I'm also determined to level up my skills in Data Structures and Algorithms 📚⚙️. At the moment, I'm diving into React with TypeScript 🚀, using my know-how to supercharge my growth 🌱.
+</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="line" width="1920" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="github" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="line" width="1920"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dablu77" alt="dablu77" /></a> </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="line" width="1920"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -11,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 😊</h3>
 <p align="left">
 <a href="https://codepen.io/dablu77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dablu77" height="30" width="40" /></a>
 <a href="https://dev.to/dablu77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dablu77" height="30" width="40" /></a>
